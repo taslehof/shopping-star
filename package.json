@@ -1,0 +1,10 @@
+{
+  "name": "shopping-star",
+  "version": "1.0.0",
+  "description": "Helping people with shoping",
+  "main": "index.js",
+  "repository": "git@github.com:taslehof/shopping-star.git",
+  "author": "kamilbugala <kamibugala@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
